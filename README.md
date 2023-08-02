@@ -2,7 +2,7 @@
 
 ## Welcome to LFCSA Course
 
-This LFCSA will contain followning:
+This LFCSA course will contain followning:
 - [1. Essential Commans]()
 - [2. Operation of Running System]()
 - [3. User and Group Management]()
@@ -10,4 +10,4 @@ This LFCSA will contain followning:
 - [5. Service Configuration]()
 - [6. Storage Management]()
 
-![FIGURE 1 – Learning Curriculum](Media/FIGURE-1.png)
+## Requirements
