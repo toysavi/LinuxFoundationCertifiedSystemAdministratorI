@@ -3,7 +3,7 @@
 ## Welcome to LFCSA Course
 
 This LFCSA course for who never know or never learn about Open Source before and it will contain followning the below curriculum:
-- [1. Essential Commans]()
+- [1. Essential Commands]()
 - [2. Operation of Running System]()
 - [3. User and Group Management]()
 - [4. Networining]()
