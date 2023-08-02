@@ -5,6 +5,8 @@
 This LFCSA course for who never know or never learn about Open Source before and it will contain followning the below curriculum:
 - [0. Course Oeverview](Instructions/0.%20Course%20Oeverview.md)
     - What is linux operating system?
+    - What is better Linux or Windows?
+    - Popular Linux distros
 - [1. Essential Commands]()
 - [2. Operation of Running System]()
 - [3. User and Group Management]()
